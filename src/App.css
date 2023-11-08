@@ -1,0 +1,18 @@
+#root {
+  width: 90vw;
+  height: 90vh;
+  margin: 5vh 5vw;
+  padding: 0;
+}
+
+button {
+  border: none;
+  background-color: rgb(48, 48, 48);
+  color: white;
+  padding: 1em 2em;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: black;
+}
